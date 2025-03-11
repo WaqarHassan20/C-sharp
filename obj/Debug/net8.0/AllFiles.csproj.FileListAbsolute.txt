@@ -12,3 +12,4 @@
 /home/waqarhassan/Desktop/programming/C#/obj/Debug/net8.0/AllFiles.pdb
 /home/waqarhassan/Desktop/programming/C#/obj/Debug/net8.0/AllFiles.genruntimeconfig.cache
 /home/waqarhassan/Desktop/programming/C#/obj/Debug/net8.0/ref/AllFiles.dll
+/home/waqarhassan/Desktop/programming/C#/obj/Debug/net8.0/AllFiles.sourcelink.json
