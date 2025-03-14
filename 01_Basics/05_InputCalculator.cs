@@ -12,8 +12,6 @@ namespace AllFiles
             double number2 = random.NextDouble(); // this does not take any arguments
             Console.WriteLine("Random NextDouble number is : " + number2);
 
-
-
             // Program to find the hypotenuse of a triangle //
             Console.Write("Enter the base value of triangle :");
             double BaseValue = Convert.ToDouble(Console.ReadLine());
